@@ -1,6 +1,4 @@
-# Project Title
-
-MTB Route Creator
+# MTB Route Creator
 
 ## Summary
 
