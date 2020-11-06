@@ -1,13 +1,16 @@
 # Project Title
 
-Final project for the Building AI course
+MTB Route Creator
 
 ## Summary
 
-Describe briefly in 2-3 sentences what your project is about. About 250 characters is a nice length! 
-
+MTB route creator will create your next MTB route automatically. It will take some input from you. For example location, time you have to spend on route, what kind of terrain you would like to have. Using these inputs it will create your route that you can display on map and export it to use on route.
 
 ## Background
+
+Last summer we travelled around Finland with our caravan. I had my fatbike with me so I could have a ride in new places. Problem that I faced in many place was that it was really hard to found any good routes to have a ride. 
+
+There are sites like Jälki (https://jalki.fi/) and MTB Reitti.fi (https://mtbreitti.fi/) where you can found routes made by others. Other way to found routes is using 
 
 Which problems does your idea solve? How common or frequent is this problem? What is your personal motivation? Why is this topic important or interesting?
 
