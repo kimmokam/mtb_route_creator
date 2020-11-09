@@ -1,12 +1,11 @@
 # MTB Route Creator
-<img align="right" width="400" src="bike.jpg">
 
 ## Summary
 
 MTB route creator will create your next MTB route automatically. It will take some input. For example location, time you have, what kind of terrain etc. Using these inputs it will create your route that you can display and export it to use on a ride.
 
 ## Background
-
+<img align="right" width="400" src="bike.jpg">
 Last summer we travelled around Finland with our caravan. I had my fatbike with me so I could have a ride in many new places. Problem that I faced in many place was that it was really hard to found any good routes to have a ride. 
 
 There are sites like Jälki (https://jalki.fi/) and MTB Reitti.fi (https://mtbreitti.fi/) where you can found routes made by others. Other way to found routes is using some sports app where you can find heatmaps that shows where many people have been riding with MTB. These work quite well when you are some place where have been lot of riders. But if you go some smaller place where aint some many riders you normally cannot find any allready made route or the heatmaps arent showing anything. Specially problem with heat maps is that it requires lot of rider and rides before it shows anything.
