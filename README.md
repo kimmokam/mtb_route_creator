@@ -1,4 +1,4 @@
-# MTB Route Creator
+# Mountain bike Route Creator
 
 ## Summary
 
