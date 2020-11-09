@@ -34,9 +34,11 @@ For creating specific routes you have also but in time you want to spend on to r
 
 After the information has been entered the route will be created and displayed on map. Also users can download the route for example as gpx files and use it in some mobile app or gps device.
 
+![image of route map](/map.jpg)
+
 ## Data sources and AI methods
 
-This only could work if you have a lot of information about different routes that rides have been using. Many rides use some mobile app or gps device on their rides and these data would be essential for this to work. Of course getting this is not going to be an easy task. 
+This only could work if you have a lot of information about different routes that rides have been using. Many riders use some mobile app or gps device on their rides and this data would be essential for this to work. Of course getting this is not going to be an easy task. 
 
 From the data of routes and maybe using this with come map data you should try to figure out some information about the route.
 What kind of surface it is
