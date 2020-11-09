@@ -1,5 +1,6 @@
 # MTB Route Creator
 <img align="right" width="400" src="bike.jpg">
+
 ## Summary
 
 MTB route creator will create your next MTB route automatically. It will take some input from you. For example location, time you have to spend on route, what kind of terrain you would like to have. Using these inputs it will create your route that you can display on map and export it to use on route.
