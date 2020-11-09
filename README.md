@@ -12,57 +12,41 @@ There are sites like Jälki (https://jalki.fi/) and MTB Reitti.fi (https://mtbre
 
 ## How is it used?
 
-Describe the process of using the solution. In what kind situations is the solution needed (environment, time, etc.)? Who are the users, what kinds of needs should be taken into account?
+For creating a route a user has to put in some parameters of himself and what kind of routes he likes. Of course you could alter this for every route creation. There parameter could be for example.
 
-Images will make your README look nice!
-Once you upload an image to your repository, you can link link to it like this (replace the URL with file path, if you've uploaded an image to Github.)
-![Cat](https://upload.wikimedia.org/wikipedia/commons/5/5e/Sleeping_cat_on_her_back.jpg)
+- What kind of surface you prefer
+   - Gravel road
+   - Forest road
+   - Trail
+   -Single track
+- What kind of terrain you prefer
+   - Lot of climbs
+   - Some climb
+   - Flat
+- What kind of bike you have
+   - Normal bike
+   - MTB with front suspension
+   - MTB with full suspension
+   - Fatbike
+   - Gravel
 
-If you need to resize images, you have to use an HTML tag, like this:
-<img src="https://upload.wikimedia.org/wikipedia/commons/5/5e/Sleeping_cat_on_her_back.jpg" width="300">
+For creating specific routes you have also but in time you want to spend on to route and of course the starting point. Also for estimating the time it takes for a rider on course varies a lot. For estimating the rides abilities could be achieved by some questionnaire or by submitting data of some old rides.
 
-This is how you create code examples:
-```
-def main():
-   countries = ['Denmark', 'Finland', 'Iceland', 'Norway', 'Sweden']
-   pop = [5615000, 5439000, 324000, 5080000, 9609000]   # not actually needed in this exercise...
-   fishers = [1891, 2652, 3800, 11611, 1757]
-
-   totPop = sum(pop)
-   totFish = sum(fishers)
-
-   # write your solution here
-
-   for i in range(len(countries)):
-      print("%s %.2f%%" % (countries[i], 100.0))    # current just prints 100%
-
-main()
-```
-
+After the information has been entered the route will be created and displayed on map. Also users can download the route for example as gpx files and use it in some mobile app or gps device.
 
 ## Data sources and AI methods
-Where does your data come from? Do you collect it yourself or do you use data collected by someone else?
-If you need to use links, here's an example:
-[Twitter API](https://developer.twitter.com/en/docs)
 
-| Syntax      | Description |
-| ----------- | ----------- |
-| Header      | Title       |
-| Paragraph   | Text        |
+This only could work if you have a lot of information about different routes that rides have been using. Many rides use some mobile app or gps device on their rides and these data would be essential for this to work. Of course getting this is not going to be an easy task. 
 
-## Challenges
+From the data of routes and maybe using this with come map data you should try to figure out some information about the route.
+What kind of surface it is
+How big climbs there is
+How fast you can go 
 
-What does your project _not_ solve? Which limitations and ethical considerations should be taken into account when deploying a solution like this?
+Also in the longer run you could try to map the routes and what the kind of surface etc they have by having videos of routes and analyzing them using ML. 
+
 
 ## What next?
 
-How could your project grow and become something even more? What kind of skills, what kind of assistance would you  need to move on? 
+I have asked the data of my rides from Sports tracker that I have been using to track my rides. When I get the data I try to get useful information from it and play with it. I have quite a lot of rides from Sipoonkorpi so for that area it could be useful. 
 
-
-## Acknowledgments
-
-* list here the sources of inspiration 
-* do not use code, images, data etc. from others without permission
-* when you have permission to use other people's materials, always mention the original creator and the open source / Creative Commons licence they've used
-  <br>For example: [Sleeping Cat on Her Back by Umberto Salvagnin](https://commons.wikimedia.org/wiki/File:Sleeping_cat_on_her_back.jpg#filelinks) / [CC BY 2.0](https://creativecommons.org/licenses/by/2.0)
-* etc
