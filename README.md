@@ -34,7 +34,7 @@ For creating specific routes you have also but in time you want to spend on to r
 
 After the information has been entered the route will be created and displayed on map. Also users can download the route for example as gpx files and use it in some mobile app or gps device.
 
-![image of route map](/map.jpg)
+![image of route map](/map.png)
 
 ## Data sources and AI methods
 
